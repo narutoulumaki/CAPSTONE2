@@ -1,6 +1,5 @@
 # Vedic Division on FPGA: Implementation Report
 
-**Student**: [Your Name]  
 **Date**: November 14, 2025  
 **FPGA**: Xilinx Artix-7 xc7a200tfbg676-2  
 **Tool**: Vivado 2024.1
